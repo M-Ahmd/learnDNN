@@ -16,5 +16,6 @@ else:
 print(tensor1)
 print(tensor2)
 
+#how to multi tensors
 result = tensor1 @ tensor2
 print(result)
